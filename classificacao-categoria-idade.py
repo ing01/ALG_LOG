@@ -1,7 +1,7 @@
-##Elabore um algoritmo que informando a idade de um nadador o mesmo terá condições de classificar em uma das seguintes categorias:
-##infantil = 5 - 10 anos;
-##juvenil = 11-17 anos;
-##adulto = maiores de 18 anos.
+# Algoritmo que informa idade do usuário e se o mesmo terá condições de classificar em uma das seguintes categorias:
+# Infantil = 5-10 anos;
+# Juvenil = 11-17 anos;
+# Adulto = maiores de 18 anos.
 
 idade = int(input('Digite sua idade: '))
 if idade >= 5 and idade <= 10:

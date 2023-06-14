@@ -1,11 +1,10 @@
-##Faça um programa que receba o código correspondente ao cargo de um funcionário e seu salário atual e mostre o cargo, o valor do aumento e seu novo salário. 
-##Os cargos estão na tabela a seguir.
-##CÓDIGO	CARGO	PERCENTUAL
-##1	Escriturário	50%
-##2	Secretário	35%
-##3	Caixa	20%
-##4	Gerente	10%
-##5	Diretor	Não tem aumento
+# Algoritmo que recebe um código correspondente ao cargo de um funcionário e seu salário atual e mostra o 
+# cargo, o valor do aumento e seu novo salário. De acordo com a tabela a seguir:
+# 1: Escriturário =	50%;
+# 2: Secretário	= 35%;
+# 3: Caixa	= 20%;
+# 4: Gerente = 10%;
+# 5: Diretor = Não tem aumento.
 
 salario = float(input('Digite o valor do salário: '))
 cargo = int(input('Digite o código do cargo (1 à 5): '))

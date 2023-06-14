@@ -1,6 +1,6 @@
-##Faça um programa que receba o valor do salário mínimo, o número de horas trabalhadas, o número de dependentes do funcionário e a quantidade de horas extras trabalhadas.
-##Calcule e mostre o salário a receber do funcionário
-##VALORES FIXOS PRÉ-ESTABELECIDOS
+# Algoritmo que recebe o valor do salário mínimo, o número de horas trabalhadas, o número de dependentes do funcionário e a quantidade de horas extras trabalhadas.
+# Calcula e mostre o salário a receber do funcionário
+# VALORES FIXOS PRÉ-ESTABELECIDOS
 
 salario_min = float(input('Qual o valor do salário? '))
 horas_trab = int(input('Quantas são as horas trabalhadas? '))

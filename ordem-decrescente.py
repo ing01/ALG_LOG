@@ -1,5 +1,5 @@
-##Faça um programa que receba três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, 
-##os quatro números em ordem decrescente. Suponha que o usuário digitará quatro números diferentes.
+# Algoritmo que recebe três números obrigatoriamente em ordem crescente e um quarto número que não siga essa regra. Mostre, em seguida, 
+# os quatro números em ordem decrescente.
 
 1 = float(input('Digite o primeiro número: '))
 n2 = float(input('Digite o quarto número: '))

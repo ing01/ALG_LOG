@@ -1,23 +1,21 @@
-##Faça um programa que receba:
-##O código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, isto é, um número * inteiro entre 1 e 10.
-##O peso do produto em quilos.
-##O código do país de origem, supondo que a digitação do código seja sempre válida, isto é, um número inteiro entre 1 e 3.
+# Algoritmo recebe código de produto válido (inteiro entre 1 e 10), peso do produto em quilos e
+# código do país de origem válido (inteiro entre 1 e 3).
 
-##CÓDIGO DO PAÍS DE ORIGEM	IMPOSTO
-##1	0%
-##2	15%
-##3	25%
+# CÓDIGO DO PAÍS DE ORIGEM	IMPOSTO
+# 1 =	0%
+# 2	= 15%
+# 3	= 25%
 
-##CÓDIGO DO PAÍS DO PRODUTO	IMPOSTO
-##1 a 4	10
-##5 a 7	25
-##8 a 10	35
+# CÓDIGO DO PAÍS DO PRODUTO	IMPOSTO
+# 1 a 4 =	10
+# 5 a 7	= 25
+# 8 a 10 = 35
 
-##Calcule e mostre:
-##o peso do produto convertido em gramas;
-##o preço total do produto comprado;
-##valor do imposto, sabendo que ele é cobrado sobre o * preço total do produto comprado e dependendo país de origem;
-##o valor total, preço total do produto mais imposto.
+#Mostra:
+# o peso do produto convertido em gramas;
+# o preço total do produto comprado;
+# valor do imposto, sabendo que ele é cobrado sobre o * preço total do produto comprado e dependendo país de origem;
+# o valor total, preço total do produto mais imposto.
 
 cod_prod = int(input('Qual o código do produto? '))
 peso_kg = float(input('Qual o peso do produto? '))

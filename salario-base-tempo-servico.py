@@ -1,5 +1,5 @@
-##Faça um programa que receba o salário base e o tempo de serviço de um funcionário.
-##VALORES FIXOS PRÉ-ESTABELECIDOS
+# Algoritmo que receba o salário base e o tempo de serviço de um funcionário.
+# VALORES FIXOS PRÉ-ESTABELECIDOS
 
 salario_base = float(input('Qual o salário base? '))
 tempo = float(input('Qual o tempo de serviço do funcionário? '))

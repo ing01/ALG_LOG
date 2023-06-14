@@ -1,4 +1,4 @@
-##Faça um programa que receba a altura e peso de uma pessoa. De acordo com a tabela a seguir, verifique e mostre a classificação dessa pessoa.
+# Algoritmo que receba a altura e peso de uma pessoa. Mostra a classificação dessa pessoa.
 
 altura = float(input('Qual sua altura? '))
 peso = float(input('Qual seu peso? '))

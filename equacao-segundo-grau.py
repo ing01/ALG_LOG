@@ -1,5 +1,5 @@
-##Faça um programa para resolver equações do 2 o grau.
-##ax² + bx + c = 0
+# Algoritmo que resolve equações do 2º grau.
+# Fórmula: ax² + bx + c = 0
 
 print('Observe a seguinte equação de segundo grau e insira os valores: ax² + bx + c = 0')
 a = float(input('Qual o valor de "a"? '))

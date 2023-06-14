@@ -1,4 +1,4 @@
-##Faça um programa que receba três números e mostre-os em ordem crescente. Suponha que o usuário digitará três números diferentes.
+# Algoritmo que recebe três números DIFERENTES e mostra em ordem crescente. 
 
 n1 = float(input('Informe o primeiro número: '))
 n2 = float(input('Informe o segundo número: '))

@@ -1,4 +1,4 @@
-##Faça um programa que mostre a data e a hora do sistema nos seguintes formatos: dia/mês/ano – mês por extenso e hora:minuto.
+# Algoritmo que mostre a data e a hora do sistema nos seguintes formatos: dia/mês/ano – mês por extenso e hora:minuto.
 
 from datetime import datetime
 hoje = datetime.now()

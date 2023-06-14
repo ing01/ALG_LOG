@@ -1,5 +1,5 @@
-##Um supermercado deseja reajustar os preços de seus produtos usando o seguinte critério: o produto poderá ter seu preço aumentado ou diminuído.
-##Faça um programa que receba o preço atual e a venda média mensal do produto, calcule e mostre o novo preço.
+# Algoritmo que reajusta os preços de produtos usando o seguinte critério: o produto poderá ter seu preço aumentado ou diminuído.
+# O algoritmo recebe o preço atual e a venda média mensal do produto, calcule e mostre o novo preço.
 
 preco_atual = float(input('Qual o valor atual do produto? '))
 media_mensal = float(input('Qual a média mensal que esse produto vende? '))

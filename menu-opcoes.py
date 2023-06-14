@@ -1,4 +1,4 @@
-##Faça um programa que mostre o menu de opções a seguir, receba a opção do usuário e os dados necessários para executar cada operação.
+# Algoritmo que mostra um menu de opções, recebe a opção do usuário e os dados necessários para executar cada operação.
 
 numero = float(input('Digite um número: '))
 numero2 = float(input('Digite outro número: '))

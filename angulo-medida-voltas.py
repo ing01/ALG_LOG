@@ -1,5 +1,5 @@
-##Faça um programa que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, 
-##para ângulos maiores que 360° ou menores que −360o, reduzí-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
+# Algoritmo que receba a medida de um ângulo em graus. Calcule e mostre o quadrante em que se localiza esse ângulo. Considere os quadrantes da trigonometria e, 
+# para ângulos maiores que 360° ou menores que −360o, reduzí-los, mostrando também o número de voltas e o sentido da volta (horário ou anti-horário).
 
 angulo = int(input('Qual a medida do ângulo? '))
 if angulo > 360 or angulo < -360:
